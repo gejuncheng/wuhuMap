@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="wuhuMap:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="wuhuMap.war">
+      <element id="artifact" artifact-name="wuhuMap:war exploded" />
+    </root>
+  </artifact>
+</component>
